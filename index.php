@@ -22,7 +22,7 @@
 <form method="POST" action="insert.php">
   <div class="jumbotron">
    <fieldset>
-    <legend>BOOKマーク</legend>
+    <legend>ブックマーク</legend>
      <label>書籍名：<input type="text" name="bookname"></label><br>
      <label>著者：<input type="text" name="bookwriter"></label><br>
      <label>書籍URL：<input type="text" name="bookurl"></label><br>
